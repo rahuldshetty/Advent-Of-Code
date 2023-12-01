@@ -24,7 +24,7 @@ Equipped with this new information, you now need to find the real first and last
 
 words = {
     "one": "o1e",
-    "two": "t2",
+    "two": "t2o",
     "three": "t3e",
     "four": "f4r",
     "five": "f5e",
